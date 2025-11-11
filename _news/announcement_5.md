@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💼 I begin working full-time for IGS Energy as a machine learning engineer.
+💼 I begin working full-time at IGS Energy as a machine learning engineer.
