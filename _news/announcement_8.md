@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 I secure third place in the Flextrack Challenge 2025 and am invited to present at the IEEE International Conference on Energy Technologies for Future Grids in December.
+🏆 I secure third place in the [Flextrack Challenge 2025](https://www.aicrowd.com/challenges/flextrack-challenge-2025) and am invited to present at the 2025 IEEE International Conference on Energy Technologies for Future Grids.

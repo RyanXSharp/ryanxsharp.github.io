@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 I graduate from UTD with my bachelor's in Data Science and join Prof. Rishabh Iyer's lab as a graduate researcher.
+🎓 I graduate from UTD with my bachelor's in Data Science and join Prof. Rishabh Iyer's lab.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📜 I receive a full ride scholarship + stipend from UTD and begin my studies there later in the year.
+📜 I receive a full ride scholarship + stipend from UTD and begin my studies there soon after.

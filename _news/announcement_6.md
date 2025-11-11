@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-😊 [SMILe](https://anaymajee.me/assets/project_pages/smile) is accepted into ECCV 2024, main track.
+📜 [SMILe](https://anaymajee.me/assets/project_pages/smile) is accepted into ECCV 2024, main track.
