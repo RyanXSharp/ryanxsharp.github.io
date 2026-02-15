@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🏆 My [ML model](../assets/competitions/Flextrack Solution Documentation.pdf) wins third place in the [Flextrack Challenge 2025](https://www.aicrowd.com/challenges/flextrack-challenge-2025), and I am invited to present my solution at the 2025 IEEE International Conference on Energy Technologies for Future Grids.
+🏆 My [ML model](../assets/competitions/Flextrack_Solution_Documentation.pdf) wins third place in the [Flextrack Challenge 2025](https://www.aicrowd.com/challenges/flextrack-challenge-2025), and I am invited to present my solution at the 2025 IEEE International Conference on Energy Technologies for Future Grids.
